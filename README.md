@@ -1,4 +1,4 @@
-# Image Quality Classifier with Auto-Tagging
+# Image Quality Classifier with Auto-Tagging.
 
 ## 📌 Overview
 
